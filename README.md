@@ -1,9 +1,9 @@
 <h1>Tratamento de dados com Pandas</h1>
 
 <h2>📝 Info:</h2>
-<p>Extraindo e tratando dados de diferentes formatos com a biblioteca Pandas em Python</p>
+<p>Extraindo e tratando dados de diferentes formatos com a biblioteca Pandas em Python no google colab.</p>
 
-## 🚀 Tecnologia usada
+## 🚀 Tecnologia usada:
 <div>
-  <img src="https://github.com/user-attachments/assets/0f7fac17-77a4-40f2-aea6-5fdebd299718](https://github.com/user-attachments/assets/0ad4a8c0-67f5-4e10-b448-16dedeb8a5f2" width="50px">
+  <img src="https://github.com/user-attachments/assets/db10b0ed-5802-4bcc-be0d-65b2ffeaf00b" width="50px">
 </div>
