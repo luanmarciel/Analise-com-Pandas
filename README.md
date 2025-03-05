@@ -5,5 +5,5 @@
 
 ## 🚀 Tecnologia usada:
 <div>
-  <img src="https://github.com/user-attachments/assets/db10b0ed-5802-4bcc-be0d-65b2ffeaf00b" width="50px">
+  <img src="https://github.com/user-attachments/assets/db10b0ed-5802-4bcc-be0d-65b2ffeaf00b" width="40px">
 </div>
